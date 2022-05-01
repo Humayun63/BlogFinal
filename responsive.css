@@ -1,0 +1,86 @@
+/*FOR DESKTOP*//*
+@media only screen and (max-width: 2560px) {
+    body{
+        font-size: 3.8rem;
+    }
+    .container{
+        width: 200rem;
+    }
+    .nav-cover{
+        height: 9.65rem;
+    }
+    .nav-cover::before{
+        height: 7.75rem;
+        width: 31rem;
+    }
+    .search-bar{
+        padding: 1.95rem;
+        margin-left: -20.5rem;
+        width: 7.7rem;
+    }
+    .info-menu{
+        position: relative;
+        right: 10rem;
+    }
+    .info-menu li a {
+        font-size: 2.5rem;
+    }
+    .slider{
+        height: 70rem;
+        background-position: 0rem -25rem;
+    }
+    .slider-element{
+        width: 200rem;
+    }
+    .slider-content img{
+        width: 28rem;
+        height: 28rem;
+    }
+    .slider-content h2{
+        font-size: 5rem;
+        padding: 0rem 25rem;
+    }
+    .current{
+        transform: translate(0%, 6%) scale(1);
+    }
+    .tag, .light-text{
+        font-size: 2.3rem;
+    }
+    .single-mini-post span.tag {
+        bottom: 8rem;
+    }
+    .post-header{
+        background-size: cover;
+        height: 40rem;
+    }
+    .post-header-content h2{
+        margin: 3rem;
+    }
+    .post-header-content p{
+        padding: 0 30rem;
+    }
+    .post-header>.slider-footer{
+        margin-top: 0;
+    }
+    .news-latter-section-cover {
+        height: 40rem;
+    }
+    .news-latter-section{
+        padding: 10rem 0;
+    }
+    .news-latter-section h2{
+        font-size: 5rem;
+    }
+    .news-latter-section p{
+        font-size: 2.6rem;
+    }
+    .sign-up #email{
+        width: 40rem;
+        height: 6rem;
+    }
+    .sign-up-btn{
+        padding: 1.8rem 2rem;
+        font-size: 2rem;
+        right: 6rem;
+    }
+}*/
